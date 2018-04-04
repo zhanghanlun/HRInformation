@@ -1,0 +1,2 @@
+# HRInformation
+用Scrapy框架爬取软件开发类的职业信息数据
